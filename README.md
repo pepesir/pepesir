@@ -14,6 +14,8 @@
 <a href="https://chat.whatsapp.com/Ima3CdRZ81NCvGshtcQhK3"><img title="Author" src="https://img.shields.io/badge/Watsapp-Group-blue.svg?style=for-the-badge&logo=whatsapp" /></a> <a href="https://youtube.com/channel/UCVJ9029PQ-gJBtFQZZ3AJuA"><img title="Author" src="https://img.shields.io/badge/Youtube-PEPESIR-blue.svg?style=for-the-badge&logo=youtube" /></a>
 </p>
 
+## I'm currently working on <a href="https://github.com/pepesir/PEPE-SIR"><img title="SELF-BOT" src="https://img.shields.io/static/v1?label=PEPE-SIR&message=Bot&color=black"></a>
+
 
 <!--
 **pepesir/pepesir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
