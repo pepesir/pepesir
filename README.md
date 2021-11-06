@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://www.linkpicture.com/q/IMG-20211103-WA0014.jpg" alt="Pepe" width="170" />
+<img src="https://www.linkpicture.com/q/IMG-20211103-WA0014.jpg" alt="Pepe" width="150" />
 
 ## P3P3 SIR 🌝💝
 
