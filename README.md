@@ -16,9 +16,20 @@
 
 ## I'm currently working on <a href="https://github.com/pepesir/PEPE-SIR"><img title="SELF-BOT" src="https://img.shields.io/static/v1?label=PEPE-SIR&message=Bot&color=black"></a>
 
+<hr></hr>
+
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" href="https://github.com/SP-XD" />
+
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true"  width="400"/>
+
+</div>
+
 
 <!--
-**pepesir/pepesir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**pepe-sir/pepesir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+
 
 Here are some ideas to get you started:
 
