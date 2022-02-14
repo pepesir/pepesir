@@ -1,51 +1,46 @@
 
 
-<div align="center">
-<img src="https://www.linkpicture.com/q/IMG-20211103-WA0014.jpg" alt="Pepe" width="150" />
+![My card name](https://cardivo.vercel.app/api?name=PEPE-SIR&description=Hi,%20Welcome%20To%20My%20Profile%20❤&image=https://avatars.githubusercontent.com/u/90826638?v=4&s=10?v=4&backgroundColor=%23ecf0f1&instagram=pepe.sir_&github=pepesir&twitter=&pattern=leaf&colorPattern=%23eaeaea)
 
-## P3P3 SIR 🌝💝
+<h1 align="center">Hi 👋, I'm Roshan</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-</div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pepesir&label=Profile%20views&color=0e75b6&style=flat" alt="pepesir" /> </p>
 
-<p align="center">
-<a href="##"><img title="SELF-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&color=blue"></a>
-</p>
-<p align="center">
-  <a href="https://Wa.me/+917736622139?text=Hello%20P3P3%20Bro🌝...fen%20boi%20aan😌💝"><img title="Contact" src="https://img.shields.io/badge/Contact-Pepe-blue.svg?style=for-the-badge&logo=whatsapp" /></a>
+- 🔭 I’m currently working on [Bosco](https://gitHub.com/pepesir/Bosco)
+
+- 🌱 I’m currently learning **java**
+
+- 🤝 I’m looking for help with [Bosco](https://gitHub.com/pepesir/Bosco)
+
+- 📫 How to reach [me](https://Wa.me/+917736622139?text=Hello%20P3P3%20Bro)
+- 💬 Ask me about my future projects 👽
+
+- ⚡ Fun fact: I like people who hate me 🙂
+
 <p align="center">
 <a href="https://chat.whatsapp.com/Ima3CdRZ81NCvGshtcQhK3"><img title="Author" src="https://img.shields.io/badge/Watsapp-Group-blue.svg?style=for-the-badge&logo=whatsapp" /></a> <a href="https://youtube.com/channel/UCVJ9029PQ-gJBtFQZZ3AJuA"><img title="Author" src="https://img.shields.io/badge/Youtube-PEPESIR-blue.svg?style=for-the-badge&logo=youtube" /></a>
 </p>
 
 ## Bots you can deploy <a href="https://github.com/pepesir/Bosco"><img title="SELF-BOT" src="https://img.shields.io/static/v1?label=Bosco&message=Bot&color=black"></a> <a href="https://github.com/pepesir/PEPE-SIR"><img title="SELF-BOT" src="https://img.shields.io/static/v1?label=PEPE-SIR&message=Bot&color=black"></a>
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/pepe.sir_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pepe.sir_" height="30" width="40" /></a>
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
 
-<hr></hr>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pepesir" alt="pepesir" /></a> </p>
 
-![My card name](https://cardivo.vercel.app/api?name=PEPE-SIR&description=Hi,%20Welcome%20To%20My%20Profile%20❤&image=https://avatars.githubusercontent.com/u/90826638?v=4&s=10?v=4&backgroundColor=%23ecf0f1&instagram=_roshan_p_r&github=pepesir&twitter=&pattern=leaf&colorPattern=%23eaeaea)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pepesir&show_icons=true&locale=en&layout=compact" alt="pepesir" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pepesir&show_icons=true&locale=en" alt="pepesir" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pepesir&" alt="pepesir" /></p>
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" href="https://github.com/SP-XD" />
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true"  width="400"/>
 
-</div>
-
-
-<!--
-**pepe-sir/pepesir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on PEPE-SIR
-- 🌱 I’m currently learning Nothing much🙃
-- 👯 I’m looking to collaborate on Nobody
-- 🤔 I’m looking for help with someone
-- 💬 Ask me about 🥴
-- 📫 How to reach me:https://Wa.me/+917736622139
-- 😄 Pronouns: 🥲
-- ⚡ Fun fact: Me itself a fun for some people 🙂
--->
