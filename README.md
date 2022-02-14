@@ -18,15 +18,13 @@
 
 - ⚡ Fun fact: I like people who hate me 🙂
 
-<p align="center">
-<a href="https://chat.whatsapp.com/Ima3CdRZ81NCvGshtcQhK3"><img title="Author" src="https://img.shields.io/badge/Watsapp-Group-blue.svg?style=for-the-badge&logo=whatsapp" /></a> <a href="https://youtube.com/channel/UCVJ9029PQ-gJBtFQZZ3AJuA"><img title="Author" src="https://img.shields.io/badge/Youtube-PEPESIR-blue.svg?style=for-the-badge&logo=youtube" /></a>
-</p>
 
 ## Bots you can deploy <a href="https://github.com/pepesir/Bosco"><img title="SELF-BOT" src="https://img.shields.io/static/v1?label=Bosco&message=Bot&color=black"></a> <a href="https://github.com/pepesir/PEPE-SIR"><img title="SELF-BOT" src="https://img.shields.io/static/v1?label=PEPE-SIR&message=Bot&color=black"></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/pepe.sir_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pepe.sir_" height="30" width="40" /></a>
+<a href="https://instagram.com/pepe.sir_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pepe.sir_" height="30" width="40" /></a> <a href="https://youtube.com/channel/UCVJ9029PQ-gJBtFQZZ3AJuA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="pepe.sir_" height="30" width="40" /></a><a href="https://chat.whatsapp.com/Ima3CdRZ81NCvGshtcQhK3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="pepe.sir_" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
