@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pepesir&label=Profile%20views&color=0e75b6&style=flat" alt="pepesir" /> </p>
 
-- 🔭 I’m currently working on [Bosco](https://gitHub.com/pepesir/Bosco)
+- 🔭 I’m currently working on a new one
 
 - 🌱 I’m currently learning **java**
 
