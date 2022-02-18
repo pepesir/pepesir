@@ -6,11 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pepesir&label=Profile%20views&color=0e75b6&style=flat" alt="pepesir" /> </p>
 
-- 🔭 I’m currently working on a new one
+- 🔭 I’m currently working on lisa bot
 
 - 🌱 I’m currently learning **java**
 
-- 🤝 I’m looking for help with [Bosco](https://gitHub.com/pepesir/Bosco)
+- 🤝 I’m looking for help with Nothing
 
 - 📫 How to reach [me](https://Wa.me/+917736622139?text=Hello%20P3P3%20Bro)
 - 💬 Ask me about my future projects 👽
