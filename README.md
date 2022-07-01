@@ -13,9 +13,9 @@
 - 🤝 I’m looking for help with Nothing
 
 - 📫 How to reach [me](https://Wa.me/+917736622139?text=Hello%20P3P3%20Bro)
+
 - 💬 Ask me about my future projects 👽
 
-- ⚡ Fun fact: I like people who hate me 🙂
 
 
 ## Bots you can deploy <a href="https://github.com/pepesir/Bosco"><img title="SELF-BOT" src="https://img.shields.io/static/v1?label=Bosco&message=Bot&color=black"></a> <a href="https://github.com/pepesir/PEPE-SIR"><img title="SELF-BOT" src="https://img.shields.io/static/v1?label=PEPE-SIR&message=Bot&color=black"></a>
