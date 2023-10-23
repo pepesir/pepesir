@@ -1,6 +1,6 @@
 
 
-![My card name](https://cardivo.vercel.app/api?name=ROSHAN&description=Hi,%20Welcome%20To%20My%20Profile%20❤&image=https://avatars.githubusercontent.com/u/90826638?v=4&s=10?v=4&backgroundColor=%23ecf0f1&instagram=_roshan_p_r_&github=pepesir&twitter=&pattern=leaf&colorPattern=%23eaeaea)
+![My card name](https://cardivo.vercel.app/api?name=ROSHAN&description=Hi,%20Welcome%20To%20My%20Profile%20❤&image=https://avatars.githubusercontent.com/u/90826638?v=4&s=10?v=4&backgroundColor=%23ecf0f1&instagram=_roshan_p_r&github=pepesir&twitter=&pattern=leaf&colorPattern=%23eaeaea)
 
 <h1 align="center">Hi 👋, I'm Roshan</h1>
 
@@ -21,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/_roshan_p_r_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pepe.sir_" height="30" width="40" /></a> <a href="[https://chat.whatsapp.com/BzhyWkAEU0t8oVl3s8p94m](https://Wa.me/+917736622139?text=Hello%20Roshan%20Bro)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="pepe.sir_" height="30" width="40" /></a>
+<a href="https://instagram.com/_roshan_p_r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pepe.sir_" height="30" width="40" /></a> <a href="[https://chat.whatsapp.com/BzhyWkAEU0t8oVl3s8p94m](https://Wa.me/+917736622139?text=Hello%20Roshan%20Bro)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="pepe.sir_" height="30" width="40" /></a>
 
 </p>
 
