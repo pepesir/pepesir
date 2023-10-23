@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **js**
 
-- 🤝 I’m looking for help with Nothing
+- 🤝 I’m looking for help with 
 
 - 📫 How to reach [me](https://Wa.me/+917736622139?text=Hello%20Roshan%20Bro)
 
